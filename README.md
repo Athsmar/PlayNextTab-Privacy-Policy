@@ -10,13 +10,6 @@ No broad host permissions (e.g., *://*/*) or invasive APIs (e.g., bookmarks, his
 
 This configuration adheres to Chrome Web Store’s Permission requirements. 
 
-WHAT THE EXTENSION DOES USE:
-
-YouTube Video Metadata:
-
--Titles/URLs of open YouTube tabs (to generate thumbnails and "Next Up" info). Only temporarily, cleared when tabs close.
-
-
 Privacy Notes:
 
 - No external servers: All data stays on the user’s device.
@@ -24,3 +17,10 @@ Privacy Notes:
 - No tracking: No cookies, analytics, or hidden data collection.
 
 - YouTube thumbnails: Loaded directly from YouTube’s servers (not stored).
+
+
+WHAT THE EXTENSION DOES USE:
+
+YouTube Video Metadata -Titles/URLs of open YouTube tabs (to generate thumbnails and "Next Up" info). Only temporarily, cleared when tabs close.
+
+
