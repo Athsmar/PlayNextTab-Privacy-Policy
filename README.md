@@ -15,7 +15,6 @@ Privacy Notes:
 - No external servers: All data stays on the user’s device.
 - No tracking: No cookies, analytics, or hidden data collection.
 - No browsing history
-- No tracking, cookies, or analytics
 - No financial or payment information (handled entirely by Stripe)
 - No personal information beyond email for payment verification
 
