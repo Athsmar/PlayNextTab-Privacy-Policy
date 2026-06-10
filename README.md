@@ -22,9 +22,9 @@ Privacy Notes:
 
 WHAT THE EXTENSION DOES USE:
 
-- YouTube Video Metadata -Titles/URLs of open YouTube tabs (to generate thumbnails and "Next Up" info). Only temporarily, cleared when tabs close.
+- YouTube Video Metadata -Titles/URLs of open YouTube tabs (to generate thumbnails and "Next Up" info). Only temporarily, cleared when tabs close. No one can see this only used to generate info for next up info and playlist.
 
-- Email address — only if you choose to purchase the Pro upgrade or restore access on a new device. This is handled by ExtensionPay, a third-party payment service. Your email is stored on ExtensionPay's servers solely to verify your paid status. I do not have direct access to your payment details — those are handled by Stripe.
+- Email address — only if you choose to purchase the Pro upgrade or restore access on a new device. This is handled by ExtensionPay, a third-party payment service. Your email is stored on ExtensionPay's servers solely to verify your paid status. I do not have direct access to your payment details those are handled by Stripe.
 
 - Extension preferences — auto-switch, close-after, loop, and notification settings are stored locally on your device using Chrome's built-in storage. These never leave your device.
 
